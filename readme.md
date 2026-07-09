@@ -14,5 +14,5 @@ pages
 10. contact
 
 users
-student
-admin
+1. student
+2. admin
